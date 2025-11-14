@@ -1,0 +1,78 @@
+MEDICAL RECORD - PRIOR AUTHORIZATION REQUEST
+
+PATIENT INFORMATION
+Name: Sarah Johnson
+Date of Birth: 03/15/1985
+Patient ID: P-2024-789456
+Insurance: BlueCross BlueShield
+Policy Number: BCBS-456789123
+
+PROVIDER INFORMATION
+Name: Dr. Michael Chen, MD
+NPI: 1234567890
+Specialty: Cardiology
+Practice: HeartCare Medical Group
+Address: 123 Medical Center Drive, Suite 200
+Phone: (555) 123-4567
+
+CHIEF COMPLAINT
+Patient presents with persistent chest pain and shortness of breath that has been worsening over the past 3 months.
+
+CLINICAL HISTORY
+45-year-old female with significant cardiac risk factors including:
+- Hypertension (diagnosed 2018)
+- Type 2 Diabetes (diagnosed 2020)
+- Family history of coronary artery disease (father had MI at age 52)
+- Hyperlipidemia
+
+Patient reports chest pain that occurs with minimal exertion and is relieved with rest. Pain is described as pressure-like, located in the substernal area, sometimes radiating to the left arm. Associated symptoms include dyspnea on exertion and occasional palpitations.
+
+PHYSICAL EXAMINATION
+- Blood Pressure: 148/92 mmHg
+- Heart Rate: 88 bpm, regular rhythm
+- Respiratory Rate: 18/min
+- O2 Saturation: 96% on room air
+- Cardiac exam: Regular rhythm, no murmurs, no gallops
+- No peripheral edema
+
+DIAGNOSTIC STUDIES
+- EKG: Normal sinus rhythm, no acute changes
+- Stress Test (performed 2 weeks ago): Positive for inducible ischemia
+- Echocardiogram: Ejection fraction 55%, mild left ventricular hypertrophy
+- Lipid Panel: Total cholesterol 245 mg/dL, LDL 165 mg/dL
+
+DIAGNOSIS
+1. Chest pain, unspecified (ICD-10: R06.02)
+2. Suspected coronary artery disease (ICD-10: I25.9)
+3. Hypertension, uncontrolled (ICD-10: I10)
+4. Type 2 diabetes mellitus with complications (ICD-10: E11.9)
+
+PLANNED PROCEDURES
+1. Cardiac catheterization with coronary angiography (CPT: 93458)
+2. Left heart catheterization (CPT: 93459)
+3. Intracoronary pressure measurement if indicated (CPT: 93460)
+
+MEDICAL NECESSITY
+Cardiac catheterization is medically necessary to:
+1. Evaluate coronary anatomy and identify any significant coronary artery disease
+2. Determine the need for revascularization (PCI or CABG)
+3. Assess left ventricular function
+4. Guide appropriate treatment planning
+
+The patient has multiple cardiac risk factors, positive stress test results, and symptoms consistent with coronary artery disease. Non-invasive testing has been completed and indicates the need for invasive evaluation.
+
+TREATMENT PLAN
+1. Proceed with cardiac catheterization to assess coronary anatomy
+2. Based on findings, determine if percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) is indicated
+3. Optimize medical management including antiplatelet therapy, statin therapy, and blood pressure control
+4. Diabetes management optimization
+
+PROGNOSIS
+Good with appropriate intervention. Early diagnosis and treatment of coronary artery disease will help prevent future cardiac events.
+
+AUTHORIZATION REQUEST
+Requesting prior authorization for cardiac catheterization procedures (CPT codes 93458, 93459, and potentially 93460) for the above-stated medical necessity.
+
+Date: 11/15/2024
+Provider Signature: Dr. Michael Chen, MD
+License: MD-12345

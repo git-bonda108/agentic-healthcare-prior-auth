@@ -1,0 +1,137 @@
+PRIOR AUTHORIZATION REQUEST - HIP ARTHROPLASTY
+
+PATIENT INFORMATION
+Name: James Wilson
+Date of Birth: 09/25/1950
+Patient ID: P-2024-223344
+Insurance: Humana Medicare Advantage
+Member ID: HUM-556677889
+Medicare ID: 123-45-6789
+
+PROVIDER INFORMATION
+Name: Dr. Lisa Anderson, MD
+NPI: 3344556677
+Specialty: Orthopedic Surgery - Adult Reconstruction
+Practice: Joint Replacement Specialists
+Hospital: Community General Hospital
+Phone: (555) 567-8901
+
+CHIEF COMPLAINT
+Patient presents with severe bilateral hip pain, right side worse, significantly affecting mobility and quality of life.
+
+CLINICAL HISTORY
+74-year-old male with 8-year history of progressive bilateral hip osteoarthritis. Patient reports:
+- Gradual onset of hip pain starting in 2016
+- Right hip significantly worse than left
+- Current pain: Right hip 9/10, Left hip 6/10
+- Severe functional limitations:
+  * Unable to walk more than 1 block
+  * Difficulty climbing stairs
+  * Unable to put on socks/shoes
+  * Sleep disruption due to pain
+  * Difficulty getting in/out of car
+- Significant impact on quality of life and independence
+
+CONSERVATIVE TREATMENT
+- Physical therapy: 12 months total (multiple courses)
+- NSAIDs: Multiple trials (ibuprofen, naproxen, celecoxib)
+- Acetaminophen: Regular use
+- Corticosteroid injections: Right hip - 5 injections over 4 years
+- Hyaluronic acid injection: Right hip - 1 injection
+- Activity modification
+- Assistive devices: Cane, then walker
+- Weight management
+
+PHYSICAL EXAMINATION
+Right Hip:
+- Range of motion: Flexion 70 degrees (normal 120), Internal rotation 0 degrees (normal 35)
+- Positive Trendelenburg sign
+- Antalgic gait
+- Leg length discrepancy: Right leg 1.5 cm shorter
+- Pain with all hip movements
+
+Left Hip:
+- Range of motion: Flexion 95 degrees, Internal rotation 10 degrees
+- Mild pain with extremes of motion
+- Mild antalgic component to gait
+
+IMAGING STUDIES
+X-ray Bilateral Hips:
+Right Hip:
+- Severe osteoarthritis
+- Complete loss of joint space
+- Large osteophytes
+- Subchondral sclerosis and cysts
+- Femoral head collapse
+- Leg length discrepancy
+
+Left Hip:
+- Moderate to severe osteoarthritis
+- Significant joint space narrowing
+- Osteophyte formation
+- Subchondral changes
+
+DIAGNOSIS
+1. Primary osteoarthritis of right hip (ICD-10: M16.11)
+2. Primary osteoarthritis of left hip (ICD-10: M16.12)
+3. Leg length discrepancy, right leg shorter (ICD-10: M21.7)
+
+PROPOSED PROCEDURE
+Total hip arthroplasty (THA) - Right hip
+CPT CODE: 27130 - Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or allograft
+
+MEDICAL NECESSITY
+1. Failed extensive conservative management:
+   - 12+ months of physical therapy
+   - Multiple NSAID trials
+   - 5 corticosteroid injections
+   - Activity modification
+   - Assistive devices
+
+2. Severe functional limitations:
+   - Unable to walk more than 1 block
+   - Difficulty with ADLs (dressing, bathing)
+   - Sleep disruption
+   - Loss of independence
+   - Quality of life severely impacted
+
+3. Radiographic evidence:
+   - Severe osteoarthritis on X-ray
+   - Complete joint space loss
+   - Femoral head collapse
+   - Advanced degenerative changes
+
+4. Appropriate surgical candidate:
+   - Age 74 (appropriate for THA)
+   - Good overall health
+   - Realistic expectations
+   - Willing to participate in rehabilitation
+   - No absolute contraindications
+
+5. Bilateral disease:
+   - Right hip significantly worse (will address first)
+   - Left hip will likely need replacement in future
+
+TREATMENT PLAN
+1. Pre-operative evaluation and medical clearance
+2. Total hip arthroplasty, right hip (CPT: 27130)
+3. Post-operative physical therapy and rehabilitation
+4. Pain management
+5. Follow-up care
+6. Consider left hip replacement in future if symptoms progress
+
+EXPECTED OUTCOMES
+- Significant pain relief
+- Improved mobility and function
+- Return to normal activities
+- Improved quality of life
+- Restoration of independence
+- Correction of leg length discrepancy
+
+PRIOR AUTHORIZATION REQUESTED
+Requesting prior authorization for total hip arthroplasty (CPT: 27130) of the right hip for treatment of severe osteoarthritis.
+
+Date: 11/20/2024
+Surgeon: Dr. Lisa Anderson, MD
+License: MD-11122
+DEA: BL1112222

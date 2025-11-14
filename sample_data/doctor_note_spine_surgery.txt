@@ -1,0 +1,128 @@
+PRIOR AUTHORIZATION REQUEST - SPINE SURGERY
+
+PATIENT DEMOGRAPHICS
+Patient Name: Maria Garcia
+Date of Birth: 04/12/1978
+Patient ID: P-2024-998877
+Insurance: Anthem Blue Cross
+Member ID: ANT-334455667
+Subscriber ID: SUB-112233
+
+ATTENDING SURGEON
+Name: Dr. Robert Kim, MD, PhD
+NPI: 9988776655
+Specialty: Neurosurgery / Spine Surgery
+Hospital Affiliation: Regional Medical Center
+Office: 789 Spine Center Drive
+Contact: (555) 456-7890
+
+PRESENTING COMPLAINT
+Patient presents with severe lower back pain and radiculopathy that has failed extensive conservative management.
+
+CLINICAL HISTORY
+46-year-old female office manager with 3-year history of progressive lower back pain and right leg pain. Patient reports:
+- Initial onset: Work-related lifting injury in 2021
+- Progressive worsening over past 18 months
+- Current pain: 9/10 severity, constant
+- Right leg radiculopathy with numbness and tingling
+- Weakness in right foot (unable to walk on toes)
+- Difficulty with activities of daily living
+- Sleep disruption due to pain
+
+CONSERVATIVE TREATMENT HISTORY
+- Physical therapy: 8 months (3 separate courses)
+- Chiropractic care: 6 months
+- Epidural steroid injections: 4 injections over 2 years
+- NSAIDs: Multiple trials
+- Muscle relaxants
+- Activity modification
+- Weight loss program (lost 25 pounds, symptoms persisted)
+
+PHYSICAL EXAMINATION
+- Gait: Antalgic, favors right leg
+- Range of motion: Limited flexion to 30 degrees, extension to 10 degrees
+- Straight leg raise: Positive on right at 30 degrees
+- Motor: Right foot dorsiflexion 3/5, toe extension 3/5
+- Sensory: Decreased sensation in L5 distribution (right leg)
+- Reflexes: Right ankle reflex absent
+- Left leg: Normal examination
+
+IMAGING STUDIES
+MRI Lumbar Spine (recent):
+- L4-L5: Large central and right paracentral disc herniation with significant thecal sac compression
+- L5-S1: Moderate disc bulge with mild central canal stenosis
+- Facet joint hypertrophy at L4-L5 and L5-S1
+- Neural foraminal narrowing at L4-L5 on right
+
+X-ray Lumbar Spine:
+- Loss of disc height at L4-L5
+- Mild spondylolisthesis at L4-L5 (Grade 1)
+
+ELECTRODIAGNOSTIC STUDIES
+EMG/NCS: Confirmed right L5 radiculopathy with denervation changes
+
+DIAGNOSIS
+1. Intervertebral disc disorder with myelopathy, lumbar region (ICD-10: M51.06)
+2. Radiculopathy, lumbar region (ICD-10: M54.16)
+3. Spondylosis with myelopathy, lumbar region (ICD-10: M47.16)
+4. Lumbar disc herniation with radiculopathy (ICD-10: M51.27)
+
+PROPOSED SURGERY
+Lumbar microdiscectomy and decompression
+- L4-L5 level
+- Right side
+
+CPT CODE: 63030 - Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; one interspace, lumbar
+
+MEDICAL NECESSITY JUSTIFICATION
+1. Failed extensive conservative management:
+   - 8+ months of physical therapy
+   - Multiple epidural injections
+   - Multiple medication trials
+   - Activity modification
+   - Weight loss (symptoms persisted)
+
+2. Significant functional impairment:
+   - Unable to work full-time
+   - Difficulty with ADLs
+   - Sleep disruption
+   - Quality of life severely impacted
+
+3. Objective findings:
+   - Large disc herniation on MRI
+   - Neurological deficit (weakness, sensory loss)
+   - Positive straight leg raise
+   - EMG confirmed radiculopathy
+
+4. Progressive symptoms:
+   - Worsening over 18 months
+   - Development of motor weakness
+   - Risk of permanent nerve damage if not treated
+
+5. Surgical indication:
+   - Large disc herniation causing compression
+   - Neurological deficit
+   - Failed conservative treatment
+   - Appropriate surgical candidate
+
+TREATMENT PLAN
+1. Pre-operative evaluation and clearance
+2. Lumbar microdiscectomy L4-L5, right side (CPT: 63030)
+3. Post-operative pain management
+4. Physical therapy and rehabilitation
+5. Follow-up care
+
+EXPECTED OUTCOMES
+- Resolution of radiculopathy
+- Improvement in pain
+- Return of motor function
+- Return to work and normal activities
+- Improved quality of life
+
+PRIOR AUTHORIZATION REQUESTED
+Requesting prior authorization for lumbar microdiscectomy (CPT: 63030) at L4-L5 level for treatment of disc herniation with radiculopathy.
+
+Date: 11/19/2024
+Surgeon: Dr. Robert Kim, MD, PhD
+License: MD-44455
+DEA: BK4445555

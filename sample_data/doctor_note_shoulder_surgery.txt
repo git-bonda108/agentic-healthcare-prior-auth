@@ -1,0 +1,130 @@
+PRIOR AUTHORIZATION REQUEST - SHOULDER ARTHROSCOPY
+
+PATIENT INFORMATION
+Name: Susan Lee
+Date of Birth: 02/14/1985
+Patient ID: P-2024-667788
+Insurance: UnitedHealthcare
+Member ID: UHC-990011223
+Group: GRP-54321
+
+PROVIDER INFORMATION
+Name: Dr. Mark Johnson, MD
+NPI: 4455667788
+Specialty: Orthopedic Surgery - Sports Medicine
+Practice: Sports Medicine & Orthopedics
+Phone: (555) 678-9012
+
+CHIEF COMPLAINT
+Patient presents with chronic right shoulder pain and limited range of motion following failed conservative treatment.
+
+CLINICAL HISTORY
+39-year-old female fitness instructor with 2-year history of right shoulder pain. Patient reports:
+- Initial injury: Overhead lifting during workout in 2022
+- Progressive worsening of symptoms
+- Current pain: 8/10, worse with overhead activities
+- Significant functional limitations:
+  * Unable to perform overhead exercises
+  * Difficulty reaching behind back
+  * Pain with sleeping on right side
+  * Unable to perform job duties (fitness instruction)
+
+CONSERVATIVE TREATMENT
+- Physical therapy: 9 months (2 separate courses)
+- NSAIDs: Multiple trials
+- Corticosteroid injections: 3 injections over 18 months
+- Activity modification
+- Rest periods
+- Ice and heat therapy
+
+PHYSICAL EXAMINATION
+Right Shoulder:
+- Range of motion: Forward flexion 120 degrees (normal 180), Abduction 100 degrees (normal 180), External rotation 30 degrees (normal 90)
+- Positive impingement signs
+- Positive O'Brien test
+- Weakness with resisted external rotation
+- Tenderness over rotator cuff insertion
+- Crepitus with movement
+
+Left Shoulder: Normal examination
+
+IMAGING STUDIES
+MRI Right Shoulder:
+- Full-thickness tear of supraspinatus tendon (1.5 cm)
+- Partial-thickness tear of infraspinatus tendon
+- Subacromial bursitis
+- Mild acromioclavicular joint arthritis
+- Labral tear, superior aspect
+
+X-ray Right Shoulder:
+- Type II acromion (hooked)
+- Mild acromioclavicular joint narrowing
+
+DIAGNOSIS
+1. Complete rotator cuff tear, right shoulder (ICD-10: M75.101)
+2. Rotator cuff syndrome, right shoulder (ICD-10: M75.111)
+3. Superior labral anterior posterior (SLAP) lesion, right shoulder (ICD-10: S43.431A)
+
+PROPOSED PROCEDURE
+Arthroscopic rotator cuff repair with subacromial decompression and labral repair
+
+CPT CODES:
+- 29827 - Arthroscopy, shoulder, surgical; with rotator cuff repair
+- 29826 - Arthroscopy, shoulder, surgical; decompression of subacromial space with partial acromioplasty, with coracoacromial ligament release
+- 29807 - Arthroscopy, shoulder, surgical; repair of SLAP lesion
+
+MEDICAL NECESSITY
+1. Failed extensive conservative treatment:
+   - 9 months of physical therapy
+   - Multiple NSAID trials
+   - 3 corticosteroid injections
+   - Activity modification
+   - Symptoms persist and worsen
+
+2. Significant functional impairment:
+   - Unable to perform job duties (fitness instructor)
+   - Unable to perform overhead activities
+   - Sleep disruption
+   - Quality of life impacted
+
+3. Objective findings:
+   - Full-thickness rotator cuff tear on MRI
+   - Labral tear
+   - Limited range of motion
+   - Weakness
+   - Positive clinical tests
+
+4. Risk of progression:
+   - Full-thickness tears tend to enlarge
+   - Muscle atrophy may develop
+   - Chronic pain and disability
+   - Early intervention improves outcomes
+
+5. Appropriate surgical candidate:
+   - Young, active patient
+   - Good overall health
+   - Realistic expectations
+   - Willing to participate in rehabilitation
+
+TREATMENT PLAN
+1. Pre-operative evaluation
+2. Arthroscopic rotator cuff repair with subacromial decompression and labral repair (CPT: 29827, 29826, 29807)
+3. Post-operative sling immobilization
+4. Physical therapy and rehabilitation (6+ months)
+5. Gradual return to activities
+6. Follow-up care
+
+EXPECTED OUTCOMES
+- Resolution of pain
+- Improved range of motion
+- Return of strength
+- Return to work and activities
+- Improved quality of life
+
+PRIOR AUTHORIZATION REQUESTED
+Requesting prior authorization for arthroscopic rotator cuff repair with subacromial decompression and labral repair (CPT codes 29827, 29826, 29807) for treatment of rotator cuff tear and labral injury.
+
+Date: 11/21/2024
+Surgeon: Dr. Mark Johnson, MD
+License: MD-33344
+DEA: BM3334444

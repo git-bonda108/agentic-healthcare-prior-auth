@@ -1,0 +1,89 @@
+PRIOR AUTHORIZATION REQUEST - ORTHOPEDIC SURGERY
+
+PATIENT DEMOGRAPHICS
+Patient Name: Robert Martinez
+DOB: 07/22/1972
+Patient ID: P-2024-321654
+Insurance Provider: Aetna Health
+Member ID: AET-987654321
+
+ATTENDING PHYSICIAN
+Name: Dr. Emily Rodriguez, MD
+NPI: 9876543210
+Specialty: Orthopedic Surgery
+Clinic: Advanced Orthopedics & Sports Medicine
+Contact: (555) 987-6543
+
+PRESENTING COMPLAINT
+Patient presents with severe right knee pain and functional limitation that has failed conservative management.
+
+CLINICAL HISTORY
+52-year-old male construction worker with a 5-year history of progressive right knee pain. Patient reports:
+- Initial injury: Work-related fall in 2019 resulting in right knee trauma
+- Progressive worsening of symptoms over past 2 years
+- Current pain level: 8/10 on visual analog scale
+- Significant functional limitations: Unable to climb stairs, difficulty with prolonged standing
+- Failed conservative treatments: Physical therapy (6 months), NSAIDs, corticosteroid injections (3 injections over 18 months), activity modification
+
+PHYSICAL EXAMINATION
+- Right knee: Significant effusion, crepitus, limited range of motion (flexion to 90 degrees, extension deficit of 10 degrees)
+- Positive McMurray test
+- Joint line tenderness
+- Antalgic gait
+- Left knee: Normal examination
+
+IMAGING STUDIES
+- X-ray (Right Knee): Severe tricompartmental osteoarthritis, joint space narrowing, osteophyte formation
+- MRI (Right Knee): Full-thickness cartilage loss in medial and patellofemoral compartments, complex tear of medial meniscus, subchondral bone edema
+
+DIAGNOSIS
+1. Primary osteoarthritis of right knee (ICD-10: M17.11)
+2. Tear of medial meniscus, current injury, right knee (ICD-10: S83.231A)
+3. Post-traumatic osteoarthritis, right knee (ICD-10: M17.31)
+
+PROPOSED TREATMENT
+Total knee arthroplasty (TKA) - Right knee
+CPT Code: 27447
+
+MEDICAL NECESSITY JUSTIFICATION
+1. Patient has failed extensive conservative management including:
+   - Physical therapy (6+ months)
+   - Multiple corticosteroid injections
+   - NSAID therapy
+   - Activity modification
+
+2. Severe functional limitations affecting:
+   - Work capacity (construction worker, unable to perform job duties)
+   - Activities of daily living
+   - Quality of life
+
+3. Radiographic evidence of severe osteoarthritis:
+   - Tricompartmental involvement
+   - Significant joint space narrowing
+   - Advanced degenerative changes
+
+4. Patient is appropriate surgical candidate:
+   - Age 52 (appropriate for TKA given severity)
+   - Good overall health
+   - Realistic expectations
+   - Willing to participate in post-operative rehabilitation
+
+TREATMENT PLAN
+1. Pre-operative evaluation and clearance
+2. Total knee arthroplasty, right knee (CPT: 27447)
+3. Post-operative physical therapy and rehabilitation
+4. Pain management
+5. Follow-up care
+
+EXPECTED OUTCOMES
+- Significant pain relief
+- Improved functional capacity
+- Return to work capability
+- Improved quality of life
+
+PRIOR AUTHORIZATION REQUESTED
+Requesting prior authorization for total knee arthroplasty (CPT: 27447) for the right knee.
+
+Date: 11/16/2024
+Physician: Dr. Emily Rodriguez, MD
+License Number: MD-54321

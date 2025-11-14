@@ -1,0 +1,103 @@
+PRIOR AUTHORIZATION REQUEST - MRI BRAIN WITH CONTRAST
+
+PATIENT INFORMATION
+Name: Jennifer Williams
+Date of Birth: 09/30/1988
+Patient ID: P-2024-555888
+Insurance: UnitedHealthcare
+Member ID: UHC-112233445
+
+REFERRING PHYSICIAN
+Name: Dr. James Anderson, MD
+NPI: 5556667777
+Specialty: Neurology
+Practice: NeuroCare Associates
+Phone: (555) 234-5678
+
+CHIEF COMPLAINT
+Patient presents with persistent headaches, visual disturbances, and episodes of dizziness over the past 6 months.
+
+CLINICAL HISTORY
+36-year-old female with 6-month history of:
+- Severe headaches, primarily occipital, occurring 3-4 times per week
+- Visual disturbances including blurred vision and photophobia
+- Episodes of vertigo and dizziness
+- Nausea associated with headaches
+- Recent memory difficulties and cognitive changes
+
+Past Medical History:
+- Migraine headaches (diagnosed in 2020, previously well-controlled)
+- Anxiety disorder
+
+Family History:
+- Mother: Multiple sclerosis (diagnosed age 45)
+
+MEDICATIONS
+- Sumatriptan 50mg PRN for migraines
+- Sertraline 50mg daily for anxiety
+
+NEUROLOGICAL EXAMINATION
+- Mental Status: Alert and oriented, mild short-term memory deficits noted
+- Cranial Nerves: II-XII grossly intact, visual fields full to confrontation
+- Motor: Strength 5/5 throughout, no focal weakness
+- Sensory: Intact to light touch and pinprick
+- Reflexes: Symmetric, 2+ throughout
+- Coordination: Intact, no ataxia
+- Gait: Slightly unsteady, wide-based
+
+DIAGNOSTIC WORKUP
+- CT Head (2 months ago): Normal, no acute abnormalities
+- Basic metabolic panel: Normal
+- Complete blood count: Normal
+- Thyroid function tests: Normal
+
+CLINICAL CONCERN
+Given the patient's symptoms (persistent headaches, visual disturbances, cognitive changes, unsteady gait) and family history of multiple sclerosis, there is concern for:
+1. Demyelinating disease (multiple sclerosis)
+2. Intracranial mass lesion
+3. Other neurological pathology
+
+DIAGNOSIS
+1. Headache, unspecified (ICD-10: R51.9)
+2. Dizziness and giddiness (ICD-10: R42)
+3. Visual disturbances (ICD-10: H53.9)
+4. Rule out multiple sclerosis (ICD-10: G35)
+5. Rule out intracranial mass (ICD-10: D49.6)
+
+REQUESTED PROCEDURE
+MRI Brain with and without contrast
+CPT Code: 70553
+
+MEDICAL NECESSITY
+MRI brain with contrast is medically necessary to:
+1. Evaluate for demyelinating disease (multiple sclerosis) given:
+   - Family history of MS
+   - Neurological symptoms consistent with MS
+   - Cognitive changes and gait abnormalities
+
+2. Rule out intracranial pathology including:
+   - Brain tumors or mass lesions
+   - Vascular malformations
+   - Inflammatory conditions
+
+3. CT scan was normal but MRI with contrast is required for:
+   - Better visualization of white matter lesions
+   - Detection of MS plaques
+   - Evaluation of contrast enhancement patterns
+
+4. Guide appropriate treatment and management based on findings
+
+TREATMENT PLAN
+1. MRI Brain with and without contrast (CPT: 70553)
+2. Based on MRI findings, determine appropriate treatment:
+   - If MS: Initiate disease-modifying therapy
+   - If other pathology: Treat accordingly
+3. Neurological follow-up
+4. Symptom management
+
+PRIOR AUTHORIZATION REQUEST
+Requesting prior authorization for MRI Brain with and without contrast (CPT: 70553) for evaluation of neurological symptoms and possible demyelinating disease.
+
+Date: 11/17/2024
+Physician: Dr. James Anderson, MD
+License: MD-99999

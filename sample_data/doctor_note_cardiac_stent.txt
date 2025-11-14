@@ -1,0 +1,114 @@
+PRIOR AUTHORIZATION REQUEST - CARDIAC INTERVENTION
+
+PATIENT INFORMATION
+Name: David Thompson
+Date of Birth: 11/08/1965
+Patient ID: P-2024-445566
+Insurance: Cigna Healthcare
+Member ID: CIG-778899001
+Group Number: GRP-12345
+
+PROVIDER INFORMATION
+Name: Dr. Patricia Martinez, MD, FACC
+NPI: 1122334455
+Specialty: Interventional Cardiology
+Practice: Advanced Cardiac Care Center
+Address: 456 Heart Street, Suite 300
+Phone: (555) 345-6789
+Fax: (555) 345-6790
+
+CHIEF COMPLAINT
+Patient presents for follow-up after recent cardiac catheterization showing significant coronary artery disease requiring intervention.
+
+CLINICAL HISTORY
+59-year-old male with history of:
+- Myocardial infarction (2019)
+- Hypertension (diagnosed 2015)
+- Hyperlipidemia
+- Type 2 Diabetes (diagnosed 2018)
+- Current smoker (30 pack-year history)
+
+Recent cardiac catheterization (performed 2 weeks ago) revealed:
+- 90% stenosis of the left anterior descending (LAD) artery
+- 70% stenosis of the right coronary artery (RCA)
+- Ejection fraction: 50%
+
+Patient continues to experience exertional chest pain despite optimal medical therapy.
+
+PHYSICAL EXAMINATION
+- Blood Pressure: 142/88 mmHg
+- Heart Rate: 72 bpm, regular
+- Respiratory Rate: 16/min
+- Cardiac exam: Regular rhythm, S4 gallop present
+- No peripheral edema
+- Distal pulses intact
+
+CURRENT MEDICATIONS
+- Aspirin 81mg daily
+- Clopidogrel 75mg daily
+- Atorvastatin 80mg daily
+- Metoprolol 50mg twice daily
+- Lisinopril 10mg daily
+- Metformin 1000mg twice daily
+
+DIAGNOSIS
+1. Coronary atherosclerosis of native coronary artery with unstable angina (ICD-10: I20.0)
+2. Atherosclerotic heart disease of native coronary artery with angina pectoris (ICD-10: I25.119)
+3. Hypertension, uncontrolled (ICD-10: I10)
+4. Type 2 diabetes mellitus with complications (ICD-10: E11.9)
+
+PROPOSED PROCEDURE
+Percutaneous transluminal coronary angioplasty (PTCA) with stent placement
+- Left anterior descending artery (LAD)
+- Right coronary artery (RCA)
+
+CPT CODES:
+- 92920 - Percutaneous transluminal coronary angioplasty; single major coronary artery or branch
+- 92928 - Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch
+- 92921 - Percutaneous transluminal coronary angioplasty; each additional branch of a major coronary artery
+- 92929 - Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; each additional branch of a major coronary artery
+
+MEDICAL NECESSITY
+1. Patient has significant coronary artery disease documented by recent cardiac catheterization:
+   - Critical LAD stenosis (90%) - high-risk lesion
+   - Significant RCA stenosis (70%)
+
+2. Patient has failed optimal medical therapy:
+   - On dual antiplatelet therapy
+   - On high-intensity statin
+   - On beta-blocker and ACE inhibitor
+   - Continues to have symptoms
+
+3. High-risk features:
+   - Previous MI
+   - Multi-vessel disease
+   - Reduced ejection fraction (50%)
+   - Diabetes mellitus
+
+4. Intervention will:
+   - Relieve symptoms
+   - Reduce risk of future cardiac events
+   - Improve quality of life
+   - Allow patient to return to normal activities
+
+TREATMENT PLAN
+1. Pre-procedure evaluation and clearance
+2. Percutaneous coronary intervention with drug-eluting stents
+3. Post-procedure monitoring
+4. Continue dual antiplatelet therapy for 12 months
+5. Cardiac rehabilitation
+6. Follow-up in 2 weeks
+
+EXPECTED OUTCOMES
+- Resolution of angina symptoms
+- Improved exercise tolerance
+- Reduced risk of future cardiac events
+- Improved quality of life
+
+PRIOR AUTHORIZATION REQUESTED
+Requesting prior authorization for percutaneous coronary intervention with stent placement (CPT codes 92920, 92928, 92921, 92929) for treatment of significant coronary artery disease.
+
+Date: 11/18/2024
+Physician: Dr. Patricia Martinez, MD, FACC
+License: MD-77788
+DEA: BM7778888
