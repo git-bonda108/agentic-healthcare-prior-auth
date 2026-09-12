@@ -7,9 +7,10 @@
 
 ## Installation (5 minutes)
 
-1. **Navigate to project directory:**
+1. **Clone and enter the project directory:**
    ```bash
-   cd "/Users/macbook/Documents/AGENTIC HEALTHCARE "
+   git clone https://github.com/git-bonda108/agentic-healthcare-prior-auth.git
+   cd agentic-healthcare-prior-auth
    ```
 
 2. **Install dependencies:**
